@@ -14,6 +14,8 @@ const allowedOrigins = [
   "http://localhost:3000",
   "http://localhost:5173",
   "http://127.0.0.1:3000",
+  "https://h5.zdn.vn",
+  "https://mini.zalo.me",
 ].filter(Boolean);
 
 mongoose
